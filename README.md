@@ -4,11 +4,11 @@
   This project was realized during 
   <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648733#overview" target="_blank">
     Jonas Schmedtmann's JavaScript course
-  </a>.
+  </a>. Both CSS and HTML were provided by the course.
 </p>
 
 <p>
-  Both CSS and HTML were provided by the course. The goal of this project was to help runners and cyclists track their workouts and 
+  The goal of this project was to help runners and cyclists track their workouts and 
   identify the places where they train the most.
 </p>
 
@@ -32,3 +32,13 @@
     Sometimes location services don't work on some browsers. I tested it on Brave and Google Chrome. It works on Google Chrome but not on Brave.
   </li>
 </ul>
+
+<h2>Site View: </h2>
+
+![image](https://github.com/user-attachments/assets/e58824a4-063d-47db-b3af-a4203651e17c)
+
+<h2>Demo View: </h2>
+
+
+
+
